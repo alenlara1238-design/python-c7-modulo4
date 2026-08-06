@@ -7,15 +7,15 @@ class Ventas:
         self.ventas = []
 
     def registrar_venta(self):
-        print("\[Ventas]")
+        print("\n[Ventas]")
         print("Registrar venta (pendiente).")
 
     def listar_ventas(self):
-        print("\[Ventas]")
+        print("\n[Ventas]")
         print("Listar ventas (pendiente).")
 
     def total_vendido(self):
-        print("\[Ventas]")
+        print("\n[Ventas]")
         print("Calcular total vendido (pendiente).")
 
     

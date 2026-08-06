@@ -15,17 +15,17 @@ class Inventario:
         print("\n[Inventario]")
         print("Registrar producto (pendiente).")
 
-    def listar_producto(self):
+    def listar_productos(self):
 
         print("\n[Inventario]")
         print("Listar productos (pendiente).")
 
     def buscar_producto(self):
-        print("\n[Inentario]")
+        print("\n[Inventario]")
         print("Buscar producto (pendiente).")
 
     def eliminar_producto(self):
-        print("\n[Inentario]")
+        print("\n[Inventario]")
         print("Eliminar producto (pendiente).")
 
     def mostrar_cantidad_productos(self):
